@@ -1,0 +1,28 @@
+[
+    {
+        "entity_name": "customer",
+        "description": null,
+        "fields": [
+            {
+                "field_name": "customer_id",
+                "field_data_type": "AutoPK",
+                "attributes": {}
+            },
+            {
+                "field_name": "name",
+                "field_data_type": "CharacterString",
+                "attributes": {}
+            },
+            {
+                "field_name": "description",
+                "field_data_type": "Text",
+                "attributes": {}
+            },
+            {
+                "field_name": "age",
+                "field_data_type": "Integer",
+                "attributes": {}
+            }
+        ]
+    }
+]
